@@ -42,5 +42,8 @@
         "branch-alias": {
             "dev-master": "6.x-dev"
         }
+    },
+    "replace": {
+        "facebook/graph-sdk": "^5.7"
     }
 }
